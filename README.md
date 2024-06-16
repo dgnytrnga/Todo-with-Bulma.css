@@ -1,4 +1,4 @@
-# todo-new
+# todo-new with Bulma.css
 
 ## Project setup
 ```
